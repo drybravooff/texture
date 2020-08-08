@@ -14,11 +14,11 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  analytics_id: '< UA-174638706-1 >'
+  analytics_id: '<UA-174638706-1>'
   title: Dry Bravo
   tagline: Kuru Temizleme
   date_format: "%b %-d, %Y"
-  style: blue
+  style: green
   showNav: false
   showPicker: false
 
