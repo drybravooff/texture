@@ -1,8 +1,8 @@
-title: DryBravo Kuru Temizleme
-author: drybravo
+title: Dry Bravo Kuru Temizleme
+author: dry_bravo
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  DryBravo Kuru Temizleme 
+  Dry Bravo Kuru Temizleme 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
