@@ -40,3 +40,8 @@ plugins:
 remote_theme: thelehhman/texture
 
 theme: jekyll-theme-slate
+texture:
+  navigation:
+    - title: Telefon NO
+      url: "https://drybravo.info/posts/coding-post/"
+    
